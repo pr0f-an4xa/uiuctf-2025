@@ -1,4 +1,4 @@
-UIUCTF 2025 Writeup:
-OSINT
-  ├───Mr. Blue Sky
-  └───park
+### UIUCTF 2025 Writeup:
+## OSINT
+-Mr. Blue Sky
+-park
